@@ -35,8 +35,8 @@ If you want to run this extension locally or contribute to the code:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Jobin-S/Food-stat-extenstion.git
-   cd Food-stat-extenstion
+   git clone https://github.com/Jobin-S/Food-stats-extenstion.git
+   cd Food-stats-extenstion
    ```
 
 2. **Load into Chrome**
