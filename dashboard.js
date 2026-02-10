@@ -120,7 +120,8 @@ function processOrders(orders, startDate, endDate) {
             end.setHours(23, 59, 59, 999);
             if (d > end) return false;
         }
-        return true;
+
+        return order.paymentStatus === 1;
     });
 
     // Stats
