@@ -67,6 +67,12 @@ This project was built and hosted by:
 - **Host**: Jobin Selvanose
 - **Co-host**: Umar Muqthar
 
+### 🌟 Contributors
+
+- [MuhmdAjeer](https://github.com/MuhmdAjeer)
+
+> 💡 **Want to contribute?** Check out our [Contribution Guidelines](CONTRIBUTING.md)!
+
 Built with ❤️ from Kerala.
 
 ---
